@@ -1,5 +1,5 @@
 behaviors:
-  TreasureSearch:
+  StaffSearch:
     trainer_type: ppo
     time_horizon: 32
     max_steps: 2e6
